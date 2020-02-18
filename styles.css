@@ -1,0 +1,35 @@
+body { color: red;
+background-color: yellow;}
+body {
+border-color: black;
+border-style: solid;
+border-width: 10px;
+}
+p {
+line-height: 3px; /* tamanho da altura de cada linha */
+letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+h1 {
+background-image: url(sobre-background.jpg);
+}
+body {
+color: #FF0000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {
+background-image: url(logicaprogramacao.jpg);
+}
+h2 {
+border-bottom: 5px solid #333333;
+}
+figure {
+background-color: #F2EDED;
+border: 5px solid #ccc;
+text-align: center;
+}
+figcaption {
+font-style: italic;
+}
+
